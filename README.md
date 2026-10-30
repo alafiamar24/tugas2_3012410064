@@ -1,17 +1,2 @@
-# tugas2alafi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1348" height="767" alt="image" src="https://github.com/user-attachments/assets/de435b6a-52be-4e5e-8f16-1275f0bddb47" />
+<img width="1338" height="742" alt="image" src="https://github.com/user-attachments/assets/300ddf12-02c9-4f8e-aae2-26de8aa3439d" />
